@@ -1,3 +1,3 @@
-# DATA SCIENCE-Research & operations- training cum internship
+# DATA SCIENCE-Research & operations- training + internship
 data science trainee and intern
 
